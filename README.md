@@ -5,6 +5,10 @@ A userscript for detecting bullshit pages dealing with political news.
 
 ** Read the Article [5 Ways to Spot a B.S. Political Story in Under 10 Seconds](http://www.cracked.com/blog/5-ways-to-spot-b.s.-political-story-in-under-10-seconds/)** to understand the motivation behind this script.
 
+>I think there is room for a plugin or userscript that searches for the terms on news websites (and reddit/digg/etc even) and displays a bullshit logo next to titles or overlaid on the page (perhaps with a description/mouse over of why its labeled bullshit). Could also reference to this article for a full explanation of why that term was chosen.
+
+>It would be interesting browsing through news sites and seeing how many bullshit labels come up. I'm sure they will find more words to use instead once they catch on to us, so we might need to modify the filter in future.
+
 # The 5 ways are:
 
 ## The Headline Contains the Word "Gaffe"
@@ -26,7 +30,4 @@ A userscript for detecting bullshit pages dealing with political news.
 ## The Headline Includes the Phrase "Blow To"
 
 * It also gets phrased in the other direction. Congress passes a cut in payroll taxes. That's good news for the people paying the taxes, right? Nope, it's a "victory for Obama."
-
->I think there is room for a plugin or userscript that searches for the terms on news websites (and reddit even) and displays a bullshit logo next to titles or overlaid on the page (perhaps with a description/mouse over of why its labeled bullshit). Could also reference to this article for a full explanation of why that term was chosen.
-It would be interesting browsing through news sites and seeing how many bullshit labels come up. I'm sure they will find more words to use instead once they catch on to us, so we might need to modify the filter in future.
 

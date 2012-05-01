@@ -9,7 +9,7 @@ A userscript for detecting bullshit pages dealing with political news.
 
 >It would be interesting browsing through news sites and seeing how many bullshit labels come up. I'm sure they will find more words to use instead once they catch on to us, so we might need to modify the filter in future.
 
-## The 5 ways are:
+## The 5 ways to spot a bullshit political story are:
 
 ### The Headline Contains the Word "Gaffe"
 
